@@ -61,7 +61,7 @@ All downloads available in the [Releases section][D1]. This portable application
 * [PortableApps.com Suite][R1] by [PortableApps.com][D2].
 * [PortableApps.com Launcher][S1] developed by [demon.devin][C3].
 
- [C1]: http://IcoFX.org/
+ [C1]: http://icofx.ro/
  [C2]: http://icofx.ro/contact.html
  [C3]: https://github.com/demondevin
 
